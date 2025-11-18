@@ -1,13 +1,15 @@
 # AquaMonitor — Smart Water Tank Monitoring
 
-[![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.o
-[![Express](https://img.shields.io/badge/Express-4.18-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
-[![Socket.IO](https://img.shields.io/badge/Socket.IO-4.x-010101?style=flat-square&logo=socket.io&logoColor=white)](https://socket.io/)
-[![MQTT](https://img.shields.io/badge/MQTT-HiveMQ-blue?style=flat-square&logo=mqtt)](https://www.hivemq.com/)
-[![Chart.js](https://img.shields.io/badge/Chart.js-3.x-2b3e50?style=flat-square&logo=chart.js)](https://www.chartjs.org/)
-[![Render](https://img.shields.io/badge/Deploy-Render-2bb6ed?style=flat-square&logo=render)](https://render.com/)
-[![Arduino](https://img.shields.io/badge/Arduino-IDE-00979D?style=flat-square&logo=arduino)](https://www.arduino.cc/)
-[![ESP8266](https://img.shields.io/badge/ESP8266-NodeMCU-orange?style=flat-square)](https://nodemcu.readthedocs.io/)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Static Badge](https://img.shields.io/badge/MQTT-FFFF14?style=for-the-badge)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Nodemcu-610096?style=for-the-badge)
+
+
 
 AquaMonitor is a backend service for a water-tank monitoring system. It ingests sensor data (temperature, level, turbidity, TDS, ambient conditions) from IoT devices via MQTT, serves a web dashboard, and provides real-time updates over WebSocket (Socket.IO).
 
